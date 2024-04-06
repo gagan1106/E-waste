@@ -4,6 +4,13 @@ const Page1 = () => {
   return (
     <div className="container">
       <div className="container1">
+      <p className="header"
+        style={{
+          fontFamily: "Titillium Web",
+          fontSize: "14px",
+          marginLeft: "5%",
+          textAlign: "left",
+        }}>Sustainable</p>
         <h1
           style={{
             fontFamily: "Titillium Web",

@@ -33,12 +33,6 @@ const Page5 = () => {
         "There are various ways to get involved in e-waste management. You can participate in our recycling programs, spread awareness about the importance of responsible e-waste disposal, or become a partner organization.",
       open: false,
     },
-
-    {
-      question: "",
-      answer: "",
-      open: false,
-    },
   ]);
 
   const toggleFAQ = (index) => {
